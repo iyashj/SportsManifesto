@@ -86,7 +86,7 @@ While most of the halls would lend the ball, it's always a good idea to carry yo
 
 **Q: How/Where do I buy a Racquet?**
 
-**A:** There are very detailed guides available on the internet about what to look for when buying a racquet. However, it doesn't matter what racquet you get when starting. Any entry-level racquet should work well. You can find options on [XXL](www.xxl.fi), [Stadium](www.stadium.fi), [Intersport](www.intersport.fi) etc. In case you fancy saving the planet, check second-hand racquets at [Sportti-Divari](www.helsinginsportti-divari.fi/ENGLANTI), [Badminton-Tori](www.tori.fi/koko_suomi?q=badminton&cg=0&w=1&st=s&st=k&st=u&st=h&st=g&ca=18&l=0&md=th), [Squash-Tori](www.tori.fi/uusimaa?q=Squash&cg=0&w=1&st=s&st=k&st=u&st=h&st=g&ca=18&l=0&md=th) etc.
+**A:** There are very detailed guides available on the internet about what to look for when buying a racquet. However, it doesn't matter what racquet you get when starting. Any entry-level racquet should work well. You can find options on [XXL](https://www.xxl.fi), [Stadium](https://www.stadium.fi), [Intersport](https://www.intersport.fi) etc. In case you fancy saving the planet, check second-hand racquets at [Sportti-Divari](https://www.helsinginsportti-divari.fi/ENGLANTI), [Badminton-Tori](https://www.tori.fi/koko_suomi?q=badminton&cg=0&w=1&st=s&st=k&st=u&st=h&st=g&ca=18&l=0&md=th), [Squash-Tori](https://www.tori.fi/uusimaa?q=Squash&cg=0&w=1&st=s&st=k&st=u&st=h&st=g&ca=18&l=0&md=th) etc.
 
 **Q: Is Badminton better than Squash?**
 
